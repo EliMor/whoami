@@ -14,37 +14,38 @@ This document explores how ethical principles grounded in determinism, relationa
 
 ---
 
+
 ### Applied Scenarios and Ethical Responses
 
-**Mistake in Production**:
-Treat as systemic, not personal. Investigate root causes, support the teammate, and improve safeguards.
+**Scenario 1: A mistake is made in production**
+Treat it as a systemic issue, not a personal failure. Investigate the root causes, improve safeguards, and support your teammate without shame.
 
-**Burnout Dismissed by Management**:
-Advocate for sustainable pacing, healthier boundaries, and shared ownership of velocity.
+**Scenario 2: A manager dismisses team burnout**
+Advocate for sustainable pacing, clearer boundaries, and healthier expectations. Frame burnout as a system issue, not a weakness.
 
-**Lying to Cover a Missed Deadline**:
-View as a response to unsafe culture. Address with empathy, reinforce honest communication, and reduce fear of consequence.
+**Scenario 3: A peer lies to cover a missed deadline**
+See the lie as a response to an unsafe culture. Address it with compassion and work to create an environment where honesty is safer.
 
-**Receiving Undeserved Credit**:
-Share recognition publicly. Strengthens collaboration, trust, and accountability.
+**Scenario 4: You receive credit for work you didn't fully do**
+Publicly share credit with collaborators. Doing so builds trust and team resilience.
 
-**Leadership Scapegoating After Failure**:
-Refocus on systemic causes. Offer to lead repair, not to deflect, but to shift from blame to insight.
+**Scenario 5: Leadership is scapegoating after a failure**
+Redirect the focus to systemic flaws. Offer to lead remediation not to deflect, but to model systems thinking over blame.
 
-**Asked to Cut Corners for a Deadline**:
-Negotiate integrity-preserving solutions. Technical debt is ethical debt.
+**Scenario 6: You're asked to cut corners to meet a deadline**
+Raise concerns about long-term harm. Find integrity-preserving compromises and communicate trade-offs clearly.
 
-**Mentoring a Struggling Teammate**:
-Normalize mistakes. Clarify expectations and improve documentation and support.
+**Scenario 7: You're mentoring someone who's struggling**
+Normalize learning curves. Clarify expectations, update documentation, and offer feedback supportively.
 
-**Toxic High Performer**:
-Escalate with evidence. Safety and values outweigh velocity.
+**Scenario 8: A high performer is acting toxically**
+Escalate patterns with evidence. Reaffirm that safety and ethical culture are more valuable than short-term output.
 
-**Tempted to Overstate Experience**:
-Practice contextual honesty. Frame impact truthfully to build trust.
+**Scenario 9: You're tempted to exaggerate your experience**
+Practice contextual honesty. Represent your contributions and impact truthfully to maintain integrity.
 
-**Benefiting While Others Are Laid Off**:
-Recognize systemic imbalance. Support peers through mentoring, sharing access, and honest advocacy.
+**Scenario 10: You benefit while others are laid off**
+Acknowledge the imbalance. Use your position to mentor, redistribute resources, or advocate for those affected.
 
 ---
 
