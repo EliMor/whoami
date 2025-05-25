@@ -18,7 +18,7 @@ This framework does not moralize. It seeks to reduce harm, preserve dignity, and
 
 - Materialist foundations of ethics (no soul, no metaphysical self)
 - Reframed justice (non-punitive, prevention-focused)
-- Prosociality without guilt
+- Prosociality without guilt (acting in ways that help others — not because you feel ashamed, obligated, or morally judged, but because it’s sensible, it aligns with your values, and it improves systemic outcomes for everyone involved)
 - Art and aesthetic experience as ethical communication
 - Why ethics still matter — even without free will
 
