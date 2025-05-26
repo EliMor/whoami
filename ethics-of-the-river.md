@@ -34,8 +34,8 @@ Ethical systems arise from human needs and pressures. The norms that survive are
 
 ### II. On Truth and Honesty
 
-**1. Truth is subjective; honesty is relational.**
-I do not see truth-telling as a sacred duty. What matters is whether sharing my perception of truth fosters trust and reduces harm. When the truth is unnecessarily cruel, silence or selective sharing may be more ethical.
+**1. Subjective truth; relational honesty.**
+I do not see truth-telling as a sacred duty. What matters is whether sharing my perception of truth fosters trust and reduces harm. When subjective truth is unnecessarily cruel, silence or selective sharing may be more ethical.
 
 **2. Lies carry responsibility.**
 Lying is sometimes justifiable to reduce suffering, but if it backfires, the ethical response is honesty, apology, and re-alignment. Repair matters.
