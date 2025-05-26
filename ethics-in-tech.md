@@ -1,5 +1,9 @@
 **Ethics in Tech: A Systems-Oriented Approach**
 
+> *An oath for engineers and builders:*
+I will reduce harm where I can, seek clarity where I’m unsure, and leave every system more humane than I found it.
+
+
 This document explores how ethical principles grounded in determinism, relational care, and systemic thinking can be applied in real-world technology and engineering environments.
 
 ---
